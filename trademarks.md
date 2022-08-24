@@ -1,10 +1,14 @@
 ## **nugg.xyz** Trademark Guidelines
 
-nugg.xyz distributed the open source nuggft protocol (version 1) and distributes other software. While our code is in part available to download, review, and improve under open-source and source-available software licenses, none of our licenses include a license to use our trademarks. Proper use of our trademarks is essential to inform users whether or not nugg.xyz stands behind a product or service. When using nugg.xyz&#39;s trademarks, you must comply with these Trademark Guidelines. Just like other projects that develop open source software, we must enforce our trademark rights to protect our users.
+Last modified: 2022-08-24
+
+**Trademark Guidelines**
+
+nugg.xyz LLC (nugg.xyz) distributed the open source nuggft protocol (version 1) and distributes other software. While our code is in part available to download, review, and improve under open-source and source-available software licenses, none of our licenses include a license to use our trademarks. Proper use of our trademarks is essential to inform users whether or not nugg.xyz stands behind a product or service. When using nugg.xyz&#39;s trademarks, you must comply with these Trademark Guidelines. Just like other projects that develop open source software, we must enforce our trademark rights to protect our users.
 
 This policy covers all of our trademarks and services marks, whether they are registered or not, including, among others:
 
-1. The trademarks and service marks: nuggft℠, nugg℠, dotnugg℠, and nugg.xyz℠ (&quot;nugg.xyz wordmarks&quot;).
+1. The trademarks and service marks: **nuggft**™, **nugg**™, **nuggft**™, **dotnugg**™, **.nugg**™, and **nugg.xyz**™ (&quot;nugg.xyz wordmarks&quot;).
 
 If you want to report misuse of a nugg.xyz trademark, please contact us at legal@nugg.xyz.
 
@@ -25,7 +29,7 @@ You may do the following _without_ receiving specific permission from nugg.xyz:
 - You must always use the wordmarks in their exact form and with the correct spelling, neither abbreviated, hyphenated, nor combined with any other word or words.
 - You must always use the nugg.xyz wordmarks only as an adjective, never as a noun or verb, or in plural or possessive forms.
   - Instead, use the generic term for the nugg.xyz product or service following the trademark.
-  - For example: nuggft protocol, nuggft interface.
+  - For example: nuggft protocol, nuggft interface, nugg app.
 
 **All other uses of a nugg.xyz trademark require our prior written permission.** Contact us at legal@nugg.xyz for more information.
 
